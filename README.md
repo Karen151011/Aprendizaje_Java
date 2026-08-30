@@ -66,7 +66,7 @@ JVM: Procesa el copilador para que funcione en la computadora.
 Librerias estandar 
 
 
-"SCRUM"
+"SCRUM- Marco de Trabajo"
 
 Es un marco de trabajo que ayuda al equipo a resolver los problemas mediante ciclos de trbajao llamados Sprints.
 Nos ayuda a desarrollar sofware de manera mas eficiente y agilizada y hay tres roles Product Owner: Represent los intereses del cliente , Scrum Master: Facilita el proceso y el Equipo de desarrollo que construye el proyecto, cada dia se reunene en los Daily Scrum donde ven el avance y quitan los obstaculos 
