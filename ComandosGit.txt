@@ -1,0 +1,5 @@
+Primeros Comandos de Git,
+
+Git clone:
+
+colocar pasos
