@@ -1,9 +1,19 @@
-Primeros Comandos de Git,
+Primeros Comandos de Git.
 
 
-Git clone: Nos permite clonar el repositorio en la computadora, como desacargarlo
+Git clone: Nos permite clonar el repositorio en la computadora, como descargarlo.
 Git status: La diferencia entre lo que hay en repositorio a lo que hay en la carpeta(si no sale en rojo son archivos nuevos que aun no estan guardados, y si sale en verde ya los agregaste)
-Git add: Este es para agregar los archivos para guardarlos para esto agregamos el nombre del archivo con la extencion de .txt, ponemos el status y lo visualizamos
-Git commint: Guarda las cosas, ponemos el nombre de porque se creo esto.
+Git add: Este es para agregar los archivos para guardarlos para esto agregamos el nombre del archivo con la extensión de .txt, ponemos el status y lo visualizamos
+Git commit: Guarda las cosas, ponemos el nombre de porque se creo esto.
 Git push: Subir lo guardado a Github a diferencia de commit que se guarda en la computadora push lo guadar en la nube.
 Pasos a seguir para subir tu archivo: 
+Abrimos el repositorio en Github 
+Creamos una carpeta que identifiquemos, en esta guardaremos el repositorio.
+Abrimos la carpeta(Karen) en la parte superior izquierda escribimos cdm, nos abrira el simbolo del sistema, despues nos dirigimos a github y damos click a code y copiaremos el url y utilizaremos git clone y pegamos el url para tenerlo en la computadora. 
+Una vez clonado el repositorio abriremos un block de notas para agregar nuestros comentarios
+Nos metemos a nuestra carpeta(cd nombre de la carpeta)
+Ya una vez editado el archivo y guardado vemos que cambios hay.
+git status este debe salir en rojo el nombre del archivo
+Después git add .  + el nombre del archivo y la extensión .txt para preprar lo que editaste
+ahora si vamos a guardarlo en la compu git commit -m "nombre que asignaste"
+Después ponemos git push para guardarlo en la nube  
