@@ -11,12 +11,11 @@ Pruebas y Depuración: Hace pruebas para garantizar la estabilidad y calidad de 
 
 
 Consultoria J-O
-Da servicios de tecnologia, ingeniería de software y transformación digital.
-Ofrece desarrollo de software, inteligencia artificial, anilisis de datos, servicios en la nube, ciberseguridad y diseño de experiencias.
-Un programador Java Backend:Creacion de logica de servidor, APIs robustas y sistemas distribuidos de alto rendimiento.
-Diseña sistemas escalables y modulares que se cominican de forma independiente.
-Base de Datos: Conexión y optimización con base de datos relacionales y no relacionales.
-Creación de pruebas unitarias y automatización con herramientas JUnit
-Aplicaciones de estandares de seguridad y autentificación.
-Trabajan en conjuntos con equipos para proponer soluciones tecnicas eficientes. 
+El programador diseña, desarrolla y moderniza aplicaciones para banca, telecomunicaciones y comercio electronico.
+Backend:Creacion y mantenimientoo de microservicios con Java moderno.
+Diseño de APIs(aplicaciones se cominiquen) RESTful
+Usan herramientas de mensajeria como Kafka, SOAP(Sitemas se cominquen)
+Seguridad y calidad: Implmentacion de estandares de seguridad,  Autorizacion, autentificacion,pruebas.
+Migracion de aplicaciones heredadas hacia arquitecturas basadas en la nube.Docker(Empaquetar aplicación para ejecutarla)Kubernetes(administra contenedores)
+Trabajando en conjunto  
  
