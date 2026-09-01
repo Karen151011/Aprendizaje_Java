@@ -1,5 +1,9 @@
 Primeros Comandos de Git,
 
-Git clone:
 
-colocar pasos
+Git clone: Nos permite clonar el repositorio en la computadora, como desacargarlo
+Git status: La diferencia entre lo que hay en repositorio a lo que hay en la carpeta(si no sale en rojo son archivos nuevos que aun no estan guardados, y si sale en verde ya los agregaste)
+Git add: Este es para agregar los archivos para guardarlos para esto agregamos el nombre del archivo con la extencion de .txt, ponemos el status y lo visualizamos
+Git commint: Guarda las cosas, ponemos el nombre de porque se creo esto.
+Git push: Subir lo guardado a Github a diferencia de commit que se guarda en la computadora push lo guadar en la nube.
+Pasos a seguir para subir tu archivo: 
