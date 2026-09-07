@@ -1,0 +1,28 @@
+"INFOGRAFIA"
+
+
+"Ernest y Young"
+Redes de servicio que ayudan a  cumplir normativas, gestionar riesgos y mejorar su crecimiento, esta forma parte de las Big Four: son 4 firmas de servicios profesionales mas grandes e importantes en el mundo en los sectores de auditoria, consultoría, asesoramiento fiscal y legal, dentro de las funciones de estas grandes empresas es revisar los estatus financieros de las empresas los asesoran en su transformación digital, con las obligaciones fiscales, su ciberseguridad, IA y estrategias, y ayudan en los procesos de compra y venta.  
+
+
+WinSCP:Es un programa sirve para transferir archivos de forma segura entre una computadora local y un servidor remoto; nos permite ver los archivos, editarlos, sincronizar carpetas y protege tus datos 
+
+PUTTY: Un programa que permite conectarse desde tu computadora a otros equipo o servidores de forma remota, en PuTTY puedes ver el servidor de la empresa en tu computadora al introducir la direccion del servidor al que te conectaras. 
+SSH:  Administra servidores en la nube mediante líneas de comandos, conexiones remotas, comunicarse con dispositivos, switches.
+La diferencia entre ambos es que en PuTTY trabajas con comandos, te conectas al servidor mediante SSH, usas cd, java y la interfaz tipo terminal y con WinSCP trabajas con archivos los transfieres mediante SSH, ocupas .jar al subir al servidor y la interfaz es tipo explorador de archivos. 
+
+"Servidor" Equipo que almacena, procesa y envía datos a otros dispositivos a través de una red, un servidor recibe solicitudes, las procesa y devuelve una respuesta. Es una maquina potente diseñada para almacenar datos y dar servicios a muchos usuarios o computadores al mismo tiempo. 
+Servidores Web: Entrega paginas web
+Servidor de aplicaciones: Ejecuta la lógica de una aplicación 
+Servidor de Base de Datos: Guardar y consulta datos 
+Servidor de API: Recibe solicitudes y devuelve datos 
+Son los servidores que se utilizan mas en Java 
+
+
+DBeaver: Programa que te permite conectarte y trabajar con base de datos desde una interfaz grafica, como una especie de administrador de base de datos donde puedes ver tablas, consultar información y ejecutar SQL, te conectas a la base de datos y te mostrara los resultados en una tabla, es una herramienta que utilizas para conectarse y administrarla. 
+
+
+Base de Datos: Un lugar donde se almacena información de forma organizada 
+
+
+ 

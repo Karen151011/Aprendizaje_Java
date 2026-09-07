@@ -1,0 +1,12 @@
+"CONCEPTOS"
+
+JAVA: Lenguaje de Programación 
+Git: Herramienta  para hacer cambios en el código
+Git Flow: Guía para ordenar tu trabajo de forma estructurada 
+Git Hub: Sitio para guardar y compartir tu código 
+Variable: Espacio de memoria para almacenar un valor o dato especifico 
+QA: Siglas para un Analista de calidad 
+Servidor: Maquina que almacena datos y da servicios a muchos usuarios.
+Ambiente: Lugar donde se ejecuta una aplicación (DEV) los programadores escriben y prueban. 
+Desarrollo: El lugar donde el programador construye y modifican el sistema(experiencia creando o modificando software)
+DBeaver: Programa para conectarse y trabajar con la base de datos 
