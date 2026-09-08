@@ -26,3 +26,10 @@ Lo editas y lo guardas
 Ponemos git add .
 git commit -m "Lo que cambiaremos"
 git push 
+
+
+Agregar un nuevo archivo de datos
+notepad(nombre del nuevo archivo.txt)
+git add .
+git commit -m "La información que hay"
+git push
