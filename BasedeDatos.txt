@@ -1,0 +1,18 @@
+"Base de Datos"
+
+Un lugar donde se guarda, organiza y administra la información para poder consultarla o modificarla.
+Comandos en Base de Datos:
+SELECT: Consultar datos
+INSERT: Agregar datos
+UPDATE: Modificar datos
+DELETE: Eliminar daros 
+CREATE TABLE: Crear una tabla 
+ALTER TABLE: Modificar una tabla 
+DROP TABLE: Eliminar una tabla 
+WHERE: Filtrar resultados
+ORDER BY: Ordenar resultados 
+JOIN: Unir información de tablas 
+
+Si utilizar DBeaver, abres una conexión a tu base de datos, creas un SQL SCRIPT y lo escribes 
+
+DBeaver: Programa que te permite conectarte y trabajar con base de datos desde una interfaz grafica, como una especie de administrador de base de datos donde puedes ver tablas, consultar información y ejecutar SQL, te conectas a la base de datos y te mostrara los resultados en una tabla, es una herramienta que utilizas para conectarse y administrarla. 
