@@ -1,5 +1,8 @@
 "Información de Java"
 
+Java: Se conecta con la basa de datos y otros sistemas para traer la información que solicita el usuario 
+Es decir Java es un middleware, busca la imformacion en el sistema o base de datos y la trae.  
+
 E-G: Procesa y autoriza transacciones de pago con tarjetas de credito y debito, 
 Hace procesamientos de pagos(gestiona las transacciones de puntos de venta y redes de comercio), switch bancario(centro de interconexión para validar pagos en terminales), y desarrolla tecnología para gestionar metodos de pago, ciberseguridad y prevención de fraudes.
 Su mayor giro es el de servicios financieros y tecnológicos, operando principalmente como el procesador de pagos y switch bancario para las transacciones.
