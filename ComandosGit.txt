@@ -11,7 +11,7 @@ Pasos a seguir para subir tu archivo:
 
 Abrimos el repositorio en Github 
 Creamos una carpeta que identifiquemos, en esta guardaremos el repositorio.
-Abrimos la carpeta(Karen) en la parte superior izquierda escribimos cdm, nos abrira el simbolo del sistema, despues nos dirigimos a github y damos click a code y copiaremos el url y utilizaremos git clone y pegamos el url para tenerlo en la computadora. 
+Abrimos la carpeta(Karen) en la parte superior izquierda escribimos cmd, nos abrira el simbolo del sistema, despues nos dirigimos a github y damos click a code y copiaremos el url y utilizaremos git clone y pegamos el url para tenerlo en la computadora. 
 Una vez clonado el repositorio abriremos un block de notas para agregar nuestros comentarios
 Nos metemos a nuestra carpeta(cd nombre de la carpeta)
 Ya una vez editado el archivo y guardado vemos que cambios hay.
@@ -22,6 +22,7 @@ Después ponemos git push para guardarlo en la nube
 
 Si en otra computadora trabajaste y deseas agregar los nuevos archivos lo que debes hacer es entrar al Simbolo del sistema( cmd) y buscar las carpeta donde tienes tus archivos y
 insertamos git pull para que estos se guarden en tu computadora y los puedas editar. 
+Recuerda siempre ver en donde te encuntras para que agreges tus archivos de forma correcta. 
  
 Para editar nuestro archivo ponemos:
 notepad (nombre del archivo.txt)
