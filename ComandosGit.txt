@@ -20,6 +20,9 @@ Después git add .  + el nombre del archivo y la extensión .txt para preprar lo
 ahora si vamos a guardarlo en la compu git commit -m "nombre que asignaste"
 Después ponemos git push para guardarlo en la nube  
 
+Si en otra computadora trabajaste y deseas agregar los nuevos archivos lo que debes hacer es entrar al Simbolo del sistema( cmd) y buscar las carpeta donde tienes tus archivos y
+insertamos git pull para que estos se guarden en tu computadora y los puedas editar. 
+ 
 Para editar nuestro archivo ponemos:
 notepad (nombre del archivo.txt)
 Lo editas y lo guardas
