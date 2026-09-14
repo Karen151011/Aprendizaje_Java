@@ -3,6 +3,30 @@
 Java: Se conecta con la basa de datos y otros sistemas para traer la información que solicita el usuario 
 Es decir Java es un middleware, busca la imformacion en el sistema o base de datos y la trae.  
 
+"Tipos de Java" 
+
+1.Java SE: Esta se usa para aprender las bases del lenguaje, tiene variables y tipos de datos, if,else, switch, ciclos(for, while), clases, objetos, herencia, polimorfismo, colecciones, excepciones, archivos
+Un ejemplo: 
+public class HolaMundo {
+       public static void
+   main (String[] args{ 
+          System.out.println("Hola Karen");
+                      }
+}
+
+
+2.Java EE/Jakarta EE: Se utiliza para aplicaciones empresariales y backend, como APIs REST, aplicaciones web, conexión con base de datos, sistemas empresariales 
+
+@GetMapping("/empleados")
+public List<Empleado>
+obtenerEmpleados()  {
+      return
+ empleadoService.obtenerTodos();
+}
+
+
+Nota Spring Boot aunque no es un tipo de Java es un framework muy utilizado para desarrollar Java 
+
 E-G: Procesa y autoriza transacciones de pago con tarjetas de credito y debito, 
 Hace procesamientos de pagos(gestiona las transacciones de puntos de venta y redes de comercio), switch bancario(centro de interconexión para validar pagos en terminales), y desarrolla tecnología para gestionar metodos de pago, ciberseguridad y prevención de fraudes.
 Su mayor giro es el de servicios financieros y tecnológicos, operando principalmente como el procesador de pagos y switch bancario para las transacciones.
