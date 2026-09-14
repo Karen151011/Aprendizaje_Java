@@ -37,3 +37,9 @@ notepad(nombre del nuevo archivo.txt)
 git add .
 git commit -m "La información que hay"
 git push
+
+
+Git Pull: Descarga los cambios mas recientes de un repositorio remoto y los integra de inmediato en tu rama local. 
+Manera de hacerlo, entramos a cmd, y colocamos dir, despues nos pondrá las carpetas que tenemos en nuestra computadora, buscamos la de Aprendizaje_Java y entramos a ella con cd una vez dentro escribimos  git pull y nos debe mostrar lo que tenemos en la carpeta y loas cambios que se agregaron. 
+
+Al seguir estos pasos lo que yo note es que los cambios y cosas que escribí en la otra computadora ya se podían ver en mi computadora y tambien las nuevas ramas que agregue.    
