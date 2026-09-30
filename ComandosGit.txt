@@ -42,4 +42,14 @@ git push
 Git Pull: Descarga los cambios mas recientes de un repositorio remoto y los integra de inmediato en tu rama local. 
 Manera de hacerlo, entramos a cmd, y colocamos dir, despues nos pondrá las carpetas que tenemos en nuestra computadora, buscamos la de Aprendizaje_Java y entramos a ella con cd una vez dentro escribimos  git pull y nos debe mostrar lo que tenemos en la carpeta y loas cambios que se agregaron. 
 
-Al seguir estos pasos lo que yo note es que los cambios y cosas que escribí en la otra computadora ya se podían ver en mi computadora y tambien las nuevas ramas que agregue.    
+Al seguir estos pasos lo que yo note es que los cambios y cosas que escribí en la otra computadora ya se podían ver en mi computadora y tambien las nuevas ramas que agregue. 
+
+
+GitHub Copilot: Es un asistente de IA que te ayuda escribir código mientras programas, te sugiere como a completar alguna instrucción de tu código, identifica posibles errores. 
+La manera de utilizarlo:
+1.- Necesitas instalar Visual Studio y tener activa tu cuenta de Git.
+2.-En el menú encuentras las extensiones, buscas GitHub copilot, e instalas la extensión.
+3.- Abre el proyecto y de tu lado derecho encontraras el chat y puedes preguntarle 
+
+Entre los que se ocupan son el modelo Clauden, es una inteligencia artificial que te ayuda a resolver tareas de forma rapida, lo puede ocupar como un asistente de programación rapida. 
+Si ya tiene el GitHub y el Visual, abres el chat de Copilot y buscas el modelo Clauden 4.5, y puedes preguntarle algo o que te enseñe a resolver algo de tu codigo. 
