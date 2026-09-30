@@ -46,3 +46,53 @@ Seguridad y calidad: Implmentacion de estandares de seguridad,  Autorizacion, au
 Migracion de aplicaciones heredadas hacia arquitecturas basadas en la nube.Docker(Empaquetar aplicación para ejecutarla)Kubernetes(administra contenedores)
 Trabajando en conjunto  
  
+
+
+
+Estructura de computadora:  Archivos-------Espacio de trabajo------- Chat Ia
+
+Cuando tenemos que probar un código siempre usamos el mvn clean install, es copilar en Java, y para ver si es correcto se pone en verde "Build SUCCESS"
+Promt Enginnering: Habilidad de escribir instrucciones claras y especificas para una IA, es decir pedirle de forma correcta las cosas.
+Da instrucciones precisas, proporciona el contexto, define el formato de la respuesta, divide el problema complejo, revisa y mejora, y lo utiliza para automatizar tareas. 
+En conclusión debes aprender a comunicarse de forma correcta y decirle que es lo que necitas a la IA.
+
+"Vulnerabilidad de código"
+Es un fallo, error o debilidad de programación en el código fuente, esto se debe a falta de validación, error humano o malas practicas. 
+
+Solución en proyectos: Recibes un reporte en donde identificas el problema, revisas tu código y haces las pruebas necesarias, una vez que identificaste el error modificas tu código si es necesario, y ejecutas para ver si el error se corrigió y no te hizo ningún cambio, una vez teniendo esto subes tus cambios a una rama para que el equipo lo revise y lo valide con los análisis de seguridad y revise que ya no hay ninguna vulnerabilidad. 
+(Herramientas- GitHub Code Security, OWASP)
+
+
+"Vulnerabilidad DE SEGURIDAD"
+Es una debilidad en el sistema, aplicación o servidor, que podria ser aprovechada para acceder a la información que hay dentro. 
+Para poder corregirla debemos: 
+1.Identificar el problema
+2.Corregir, es decir modificar el código, actualizar la librería, corregir permisos o cambiar la configuración. 
+3.Realizar pruebas, compruebas si se soluciono el problema. 
+4.Subes tus cambios y solicitas una revisión con tu equipo. 
+
+
+"Obsolescencia" 
+Estado en que un servicio deja de ser útil, funcional o adecuado; en el caso de programación cuando una funcion, característica,  biblioteca o lenguaje de programación se considera anticuado; esto  a su vez deja de recibir soporte. 
+Para poder corregirlo:
+1.Identifica que es lo que esta obsoleto 
+2. Busca la alternativa actual
+3. Actualiza las dependencias, en este caso si la librería es obsoleta revisa si tiene una versión moderna y si es compatible y si se le da mantenimiento. 
+4. Prueba tus cambios
+
+Recuerda que para corregir cualquiera de las 3 anteriores es importante que identifiques el problema con un reporte que te deben de pasar, una vez teniendo esto si ocupas la IA debes ser muy preciso en lo que le pedirás ayuda, para que te apoye en corregir lo adecuado y siempre tiene que proar que no tenga cambios que antes no reconocías. 
+
+
+
+Ejemplo de Vulnerabilidad:
+
+
+Los nuevos cambios 
+
+
+
+ 
+
+ 
+
+ 
