@@ -87,7 +87,8 @@ Recuerda que para corregir cualquiera de las 3 anteriores es importante que iden
 Ejemplo de Vulnerabilidad:
 
 
-Los nuevos cambios 
+Necesitamos el reporte para ver los errores que tenemos, para ello entramos a Kiwan y luego nos vamos en search y buscamos el nombre de nuestro proyecto(multiplan)) una vez estando ahí le damos click al like para ver el estatus y le damos click en las 3 rayitas en mano izquierda y nos aparece defect y si vemos algun defecto entonces lo debemos arreglar, nos dirigimos a nuestro entorno de trabajo y le pedimos a la IA que nos ayude a corregir la vulnerabilidad o defecto, una vez que lo hacemos ponemos en el chat que cambios queremos que aplique, despues de ello lo ejecutamos con mnv celan install, una vez que lo ejecuta nos dirigimos al servidor entramos con la contraseña correspondiente, una vez dentro ponemos el cd y la ruta que queremos, luego vamos al PuTTY copiamos el archivo del lado izquierdo al derecho, revisamos que el archivo sea el correcto. Después de verificar eso nos regresamos al ID escribimos git  branc para ver la rama en la que estamos, luego de ver que estamos en la rama correcta ponemos git status para ver que el cambio se hizo, ojo el archivo en como termine es lo que hay que copiar ponemos un git add y el archivo con la ruta completa, al estar en rojo es editada pero que no se han subido los cambios una vez que veamos esto ponemos un git add y la ruta, ponemos git status para ver el cambio en verde, luego un git commit -m"Cambio" y por ultimo un giy push.
+Ahora lo verificamos en el repositorio entramos a GitHub entramos al repositorio  , pasamos a la rama correcta y buscamos paso a paso mediante el nombre del archivo que hicimos el cambio y actualizamos para ver nuestro cambio.  
 
 
 
