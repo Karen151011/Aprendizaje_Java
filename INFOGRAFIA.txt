@@ -34,7 +34,7 @@ touch: Crear un archivo
 cp: Copiar archivos
 mv: Mover o cambiar nombre
 rm: Eliminar un archivo 
-cat: Ver el contenido de un archivo
+cat: Ver el contenido de un archivo 
 
 
 
@@ -46,5 +46,6 @@ DBeaver: Programa que te permite conectarte y trabajar con base de datos desde u
 Base de Datos: Un lugar donde se almacena información de forma organizada 
 
 
-
+"Agentes de IA"
+Un agente de IA es un sistema autonomo capaz de percibir su entorno, razonar, planificar y ejecutar acciones por si mismo para cumplir un objetivo
  
