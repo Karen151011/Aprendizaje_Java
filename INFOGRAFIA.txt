@@ -37,13 +37,27 @@ rm: Eliminar un archivo
 cat: Ver el contenido de un archivo
 
 
-
-
-
 DBeaver: Programa que te permite conectarte y trabajar con base de datos desde una interfaz grafica, como una especie de administrador de base de datos donde puedes ver tablas, consultar información y ejecutar SQL, te conectas a la base de datos y te mostrara los resultados en una tabla, es una herramienta que utilizas para conectarse y administrarla. 
 
 
 Base de Datos: Un lugar donde se almacena información de forma organizada 
+
+
+"Agentes de Ia" 
+Los agentes de Ia es un sistem autnomo capaz de percibir su entorno, razonar, planificar y ejecutar acciones por si mismo para cumplir un objetivo especifico.
+A diferente de la IA que responde o genera contenido el agente toma decisiones y ejecuta acciones para alcanzar un objetivo. 
+
+IA: Piensa/genera una respuesta 
+Agente: Piensa + decide pasos + usa herramientas + ejecuta una tarea. 
+Por ejemplo a la Ia le dices que tienes una vulnerabilidad en tu codigo te dice cual es su vulnerabilidad y como puedo arreglarlo, sin embargo tu lo tienes que hacer de forma manual; y un agente 
+dependiendo de las herramientas y permisos busca donde se cocupa la libreria, identifica la version consulta la fuente, propone la actualización y modifica el archivo, ejecuta pruebas y comprueba que siga funcionando. 
+Es muy utilizado el modelo Clauden  
+JSON: Este modo obliga a la IA a reponderte siempre en formato estructurado, como un objeto de Java. 
+Cadenas de Orquestación: Una cadena de agentes que te ayudan revisar cada agente le paso el resultado a JSon y hace una cadena de orquestación.
+JSON: Para que la IA hable de una forma que el codigo lo entienda. 
+Orquestacion: Poner a varios agentes a trabjar en equipo, en orden. 
+Esto nos ayuda para automatizar proyectos, y podemos pensar en flujos de trabajo donde delgues tareas repetitivas a los agentes y me enfoque es la parte estrategica y creativa. 
+
 
 
 
