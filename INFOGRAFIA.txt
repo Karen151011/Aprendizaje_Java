@@ -7,6 +7,12 @@ E-Global: El programador se encarga de diseñar, desarrollar, probar y dar mante
 Redes de servicio que ayudan a  cumplir normativas, gestionar riesgos y mejorar su crecimiento, esta forma parte de las Big Four: son 4 firmas de servicios profesionales mas grandes e importantes en el mundo en los sectores de auditoria, consultoría, asesoramiento fiscal y legal, dentro de las funciones de estas grandes empresas es revisar los estatus financieros de las empresas los asesoran en su transformación digital, con las obligaciones fiscales, su ciberseguridad, IA y estrategias, y ayudan en los procesos de compra y venta.  
 
 
+Metlife:Aseguradora lider en el pais que ofrece seguros de vida, seguros de gastos medicos mayores, seguros de accidentes personales y planes de ahorro e inversión. 
+
+"Cap-Gemini": Empresa de consultoria lider en la industria, ayuda a las organizaciones a acelerar su transición hacia un mundo digital y sostenible, optiiza los procesos y mejora la eficiencia operativa. 
+Entre las cosas que ayuda es la Nube, ciberseguridad, IA y gestión empresarial. 
+
+
 WinSCP:Es un programa sirve para transferir archivos de forma segura entre una computadora local y un servidor remoto; nos permite ver los archivos, editarlos, sincronizar carpetas y protege tus datos 
 
 PUTTY: Un programa que permite conectarse desde tu computadora a otros equipo o servidores de forma remota, en PuTTY puedes ver el servidor de la empresa en tu computadora al introducir la direccion del servidor al que te conectaras. 
@@ -56,5 +62,8 @@ te dice donde se encuntra y comienza a arreglarla y al final de te pregunta si q
 JSON: Formato utilizado para guardar y transmitir informacion de una manera que tanto las personas como los programas pueden entender facilmente.
 Es como una forma estructurada para que el agente reciba información, tome decisiones y se comunique con otras herramientas o sistemas. 
 CADENAS: Un programa con varios metodos, pone a varios agentes a trabajar en equipo y orden. 
- 
+
+
+
+
  
