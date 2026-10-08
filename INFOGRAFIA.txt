@@ -47,5 +47,14 @@ Base de Datos: Un lugar donde se almacena información de forma organizada
 
 
 "Agentes de IA"
-Un agente de IA es un sistema autonomo capaz de percibir su entorno, razonar, planificar y ejecutar acciones por si mismo para cumplir un objetivo
+Un agente de IA es un sistema autonomo capaz de percibir su entorno, razonar, planificar y ejecutar acciones por si mismo para cumplir un objetivo especifico.
+En el caso de los agentes a diferencia de la Ia este toma decisiones y ejecuta acciones para alcanzar un objetivo. 
+IA: Piensa y genera una respuesta.
+Agente: Piensa, decide pasos, usa herramientas y ejecuta una tarea. 
+Ejemplo: Si a la IA le dices que hay una vulnerabilidad y le mnadas tu captuta, este te dice que esta mal y como lo puedes corregir, pero lo debes hacer tu, en el caso de los agentes no, tu le mandas la foto de donde esta la vulnerabilidad y la analiza,
+te dice donde se encuntra y comienza a arreglarla y al final de te pregunta si quieres hacerle esos cambios. 
+JSON: Formato utilizado para guardar y transmitir informacion de una manera que tanto las personas como los programas pueden entender facilmente.
+Es como una forma estructurada para que el agente reciba información, tome decisiones y se comunique con otras herramientas o sistemas. 
+CADENAS: Un programa con varios metodos, pone a varios agentes a trabajar en equipo y orden. 
+ 
  
