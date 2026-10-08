@@ -1,99 +1,103 @@
 "Información de Java"
 
-Java: Se conecta con la basa de datos y otros sistemas para traer la información que solicita el usuario 
-Es decir Java es un middleware, busca la imformacion en el sistema o base de datos y la trae.  
+Java: se conecta con la base de datos y otros sistemas para traer la información que solicita el usuario.
+Es decir, Java es un middleware; busca la información en el sistema o base de datos y la trae.
 
-"Tipos de Java" 
+"Tipos de Java"
 
-1.Java SE: Esta se usa para aprender las bases del lenguaje, tiene variables y tipos de datos, if,else, switch, ciclos(for, while), clases, objetos, herencia, polimorfismo, colecciones, excepciones, archivos
-Un ejemplo: 
+1. Java SE: se usa para aprender las bases del lenguaje; tiene variables y tipos de datos, if, else, switch, ciclos (for, while), clases, objetos, herencia, polimorfismo, colecciones, excepciones y archivos.
+Un ejemplo:
+
 public class HolaMundo {
-       public static void
-   main (String[] args{ 
-          System.out.println("Hola Karen");
-                      }
+    public static void main(String[] args) {
+        System.out.println("Hola Karen");
+    }
 }
 
-
-2.Java EE/Jakarta EE: Se utiliza para aplicaciones empresariales y backend, como APIs REST, aplicaciones web, conexión con base de datos, sistemas empresariales 
+2. Java EE / Jakarta EE: se utiliza para aplicaciones empresariales y backend, como APIs REST, aplicaciones web, conexión con base de datos y sistemas empresariales.
 
 @GetMapping("/empleados")
-public List<Empleado>
-obtenerEmpleados()  {
-      return
- empleadoService.obtenerTodos();
+public List<Empleado> obtenerEmpleados() {
+    return empleadoService.obtenerTodos();
 }
 
+Nota: Spring Boot, aunque no es un tipo de Java, es un framework muy utilizado para desarrollar Java.
 
-Nota Spring Boot aunque no es un tipo de Java es un framework muy utilizado para desarrollar Java 
-
-E-G: Procesa y autoriza transacciones de pago con tarjetas de credito y debito, 
-Hace procesamientos de pagos(gestiona las transacciones de puntos de venta y redes de comercio), switch bancario(centro de interconexión para validar pagos en terminales), y desarrolla tecnología para gestionar metodos de pago, ciberseguridad y prevención de fraudes.
+E-G: procesa y autoriza transacciones de pago con tarjetas de crédito y débito.
+Hace procesamiento de pagos (gestiona las transacciones de puntos de venta y redes de comercio), switch bancario (centro de interconexión para validar pagos en terminales) y desarrolla tecnología para gestionar métodos de pago, ciberseguridad y prevención de fraudes.
 Su mayor giro es el de servicios financieros y tecnológicos, operando principalmente como el procesador de pagos y switch bancario para las transacciones.
-Y el programador se encarga de diseñar, desarrollar, optimizar y dar mantenimiento a los servicios electronicos de los pagos y transacciones. 
-Desarrollo de software: Crea y programa nuevas aplicaciones o microservicios con Java en Spring(te ayuda a crear aplicaciones de forma facil y organizado)
-Gestión de Bases de Datos:Maneja y consulta las bases de datos con SQL para asegurar la integridad de la información.
-Mantenimento y Optimización: Corige errores y mejora el rendimiento del codigo.
-Pruebas y Depuración: Hace pruebas para garantizar la estabilidad y calidad de los sistemas. 
+Y el programador se encarga de diseñar, desarrollar, optimizar y dar mantenimiento a los servicios electrónicos de los pagos y transacciones.
 
+Desarrollo de software: crea y programa nuevas aplicaciones o microservicios con Java en Spring (te ayuda a crear aplicaciones de forma fácil y organizada).
+Gestión de bases de datos: maneja y consulta las bases de datos con SQL para asegurar la integridad de la información.
+Mantenimiento y optimización: corrige errores y mejora el rendimiento del código.
+Pruebas y depuración: hace pruebas para garantizar la estabilidad y calidad de los sistemas.
 
-Consultoria J-O
-El programador diseña, desarrolla y moderniza aplicaciones para banca, telecomunicaciones y comercio electronico.
-Backend:Creacion y mantenimientoo de microservicios con Java moderno.
-Diseño de APIs(aplicaciones se cominiquen) RESTful
-Usan herramientas de mensajeria como Kafka, SOAP(Sitemas se cominquen)
-Seguridad y calidad: Implmentacion de estandares de seguridad,  Autorizacion, autentificacion,pruebas.
-Migracion de aplicaciones heredadas hacia arquitecturas basadas en la nube.Docker(Empaquetar aplicación para ejecutarla)Kubernetes(administra contenedores)
-Trabajando en conjunto  
- 
+Consultoría J-O
+El programador diseña, desarrolla y moderniza aplicaciones para banca, telecomunicaciones y comercio electrónico.
+Backend: creación y mantenimiento de microservicios con Java moderno.
+Diseño de APIs (aplicaciones se comuniquen) RESTful.
+Usan herramientas de mensajería como Kafka y SOAP (sistemas se comuniquen).
+Seguridad y calidad: implementación de estándares de seguridad, autorización, autenticación y pruebas.
+Migración de aplicaciones heredadas hacia arquitecturas basadas en la nube. Docker (empaqueta la aplicación para ejecutarla), Kubernetes (administra contenedores).
+Trabajando en conjunto.
 
+Estructura de computadora: Archivos ------- Espacio de trabajo ------- Chat IA.
 
-
-Estructura de computadora:  Archivos-------Espacio de trabajo------- Chat Ia
-
-Cuando tenemos que probar un código siempre usamos el mvn clean install, es copilar en Java, y para ver si es correcto se pone en verde "Build SUCCESS"
-Promt Enginnering: Habilidad de escribir instrucciones claras y especificas para una IA, es decir pedirle de forma correcta las cosas.
-Da instrucciones precisas, proporciona el contexto, define el formato de la respuesta, divide el problema complejo, revisa y mejora, y lo utiliza para automatizar tareas. 
-En conclusión debes aprender a comunicarse de forma correcta y decirle que es lo que necitas a la IA.
+Cuando tenemos que probar un código siempre usamos el comando "mvn clean install", que compila en Java, y para ver si es correcto se pone en verde "Build SUCCESS".
+Prompt Engineering: habilidad de escribir instrucciones claras y específicas para una IA, es decir, pedirle de forma correcta las cosas.
+Da instrucciones precisas, proporciona el contexto, define el formato de la respuesta, divide el problema complejo, revisa y mejora, y lo utiliza para automatizar tareas.
+En conclusión, debes aprender a comunicarte de forma correcta y decirle qué es lo que necesitas a la IA.
 
 "Vulnerabilidad de código"
-Es un fallo, error o debilidad de programación en el código fuente, esto se debe a falta de validación, error humano o malas practicas. 
+Es un fallo, error o debilidad de programación en el código fuente; esto se debe a falta de validación, error humano o malas prácticas.
 
-Solución en proyectos: Recibes un reporte en donde identificas el problema, revisas tu código y haces las pruebas necesarias, una vez que identificaste el error modificas tu código si es necesario, y ejecutas para ver si el error se corrigió y no te hizo ningún cambio, una vez teniendo esto subes tus cambios a una rama para que el equipo lo revise y lo valide con los análisis de seguridad y revise que ya no hay ninguna vulnerabilidad. 
-(Herramientas- GitHub Code Security, OWASP)
+Solución en proyectos: recibes un reporte en donde identificas el problema, revisas tu código y haces las pruebas necesarias. Una vez que identificaste el error, modificas tu código si es necesario y ejecutas la aplicación para verificar que el error se corrigió y no te generó ningún cambio no deseado. Después, subes tus cambios a una rama para que el equipo los revise y valide con los análisis de seguridad, para comprobar que ya no hay ninguna vulnerabilidad.
+(Herramientas: GitHub Code Security, OWASP)
 
+"Vulnerabilidad de seguridad"
+Es una debilidad en el sistema, aplicación o servidor que podría ser aprovechada para acceder a la información que hay dentro.
+Para poder corregirla debemos:
+1. Identificar el problema.
+2. Corregirlo, es decir, modificar el código, actualizar la librería, corregir permisos o cambiar la configuración.
+3. Realizar pruebas para comprobar si se solucionó el problema.
+4. Subir tus cambios y solicitar una revisión con tu equipo.
 
-"Vulnerabilidad DE SEGURIDAD"
-Es una debilidad en el sistema, aplicación o servidor, que podria ser aprovechada para acceder a la información que hay dentro. 
-Para poder corregirla debemos: 
-1.Identificar el problema
-2.Corregir, es decir modificar el código, actualizar la librería, corregir permisos o cambiar la configuración. 
-3.Realizar pruebas, compruebas si se soluciono el problema. 
-4.Subes tus cambios y solicitas una revisión con tu equipo. 
-
-
-"Obsolescencia" 
-Estado en que un servicio deja de ser útil, funcional o adecuado; en el caso de programación cuando una funcion, característica,  biblioteca o lenguaje de programación se considera anticuado; esto  a su vez deja de recibir soporte. 
+"Obsolescencia"
+Estado en el que un servicio deja de ser útil, funcional o adecuado. En el caso de programación, cuando una función, característica, biblioteca o lenguaje de programación se considera anticuado; esto a su vez deja de recibir soporte.
 Para poder corregirlo:
-1.Identifica que es lo que esta obsoleto 
-2. Busca la alternativa actual
-3. Actualiza las dependencias, en este caso si la librería es obsoleta revisa si tiene una versión moderna y si es compatible y si se le da mantenimiento. 
-4. Prueba tus cambios
+1. Identifica qué es lo que está obsoleto.
+2. Busca la alternativa actual.
+3. Actualiza las dependencias; en este caso, si la librería es obsoleta, revisa si tiene una versión moderna y si es compatible y si se le da mantenimiento.
+4. Prueba tus cambios.
 
-Recuerda que para corregir cualquiera de las 3 anteriores es importante que identifiques el problema con un reporte que te deben de pasar, una vez teniendo esto si ocupas la IA debes ser muy preciso en lo que le pedirás ayuda, para que te apoye en corregir lo adecuado y siempre tiene que proar que no tenga cambios que antes no reconocías. 
+Recuerda que para corregir cualquiera de las 3 anteriores es importante que identifiques el problema con un reporte que te deben pasar. Una vez que tengas esto, si ocupas la IA, debes ser muy preciso en lo que le pedirás ayuda para que te apoye a corregir lo adecuado y siempre tiene que probar que no tenga cambios que antes no reconocías.
 
+Ejemplo de vulnerabilidad:
 
+Necesitamos el reporte para ver los errores que tenemos. Para ello, entramos a Kiwan, luego nos vamos a Search y buscamos el nombre de nuestro proyecto (multiplan). Una vez estando ahí, damos clic en "like" para ver el estatus y luego clic en las 3 rayitas en la mano izquierda. Nos aparece "Defect". Si vemos algún defecto, entonces lo debemos arreglar. Nos dirigimos a nuestro entorno de trabajo y le pedimos a la IA que nos ayude a corregir la vulnerabilidad o defecto. Una vez que lo hacemos, ponemos en el chat qué cambios queremos que aplique. Después de ello, lo ejecutamos con "mvn clean install". Una vez que lo ejecuta, nos dirigimos al servidor, entramos con la contraseña correspondiente. Una vez dentro, ponemos "cd" y la ruta que queremos. Luego vamos a PuTTY, copiamos el archivo del lado izquierdo al derecho y revisamos que el archivo sea el correcto. Después de verificar esto, nos regresamos al ID, escribimos "git branch" para ver la rama en la que estamos. Luego de verificar que estamos en la rama correcta, ponemos "git status" para ver que el cambio se hizo. Ojo: el archivo en como termine es lo que hay que copiar. Ponemos un "git add" y el archivo con la ruta completa. Al estar en rojo, significa que está editado pero que aún no se han subido los cambios. Una vez que veamos esto, ponemos un "git add" y la ruta. Después, colocamos "git status" para ver el cambio en verde; luego, un "git commit -m "Cambio"" y por último un "git push".
 
-Ejemplo de Vulnerabilidad:
+Ahora lo verificamos en el repositorio. Entramos a GitHub, a la rama correcta y buscamos paso a paso, mediante el nombre del archivo, el cambio que hicimos y actualizamos para ver nuestro cambio.
 
+"Sistema Cloud": una red global de servidores remotos conectados a internet que almacenan y procesan datos en lugar de hacerlo en el disco duro de tu computadora o celular.
+Almacena archivos, accedes desde cualquier lugar, trabajas en tiempo real, usas aplicaciones sin instalar y respaldas información.
+Se alojan y administran en una instalación remota propiedad de un proveedor (AWS o Microsoft Azure).
 
-Necesitamos el reporte para ver los errores que tenemos, para ello entramos a Kiwan y luego nos vamos en search y buscamos el nombre de nuestro proyecto(multiplan)) una vez estando ahí le damos click al like para ver el estatus y le damos click en las 3 rayitas en mano izquierda y nos aparece defect y si vemos algun defecto entonces lo debemos arreglar, nos dirigimos a nuestro entorno de trabajo y le pedimos a la IA que nos ayude a corregir la vulnerabilidad o defecto, una vez que lo hacemos ponemos en el chat que cambios queremos que aplique, despues de ello lo ejecutamos con mnv celan install, una vez que lo ejecuta nos dirigimos al servidor entramos con la contraseña correspondiente, una vez dentro ponemos el cd y la ruta que queremos, luego vamos al PuTTY copiamos el archivo del lado izquierdo al derecho, revisamos que el archivo sea el correcto. Después de verificar eso nos regresamos al ID escribimos git  branc para ver la rama en la que estamos, luego de ver que estamos en la rama correcta ponemos git status para ver que el cambio se hizo, ojo el archivo en como termine es lo que hay que copiar ponemos un git add y el archivo con la ruta completa, al estar en rojo es editada pero que no se han subido los cambios una vez que veamos esto ponemos un git add y la ruta, ponemos git status para ver el cambio en verde, luego un git commit -m"Cambio" y por ultimo un giy push.
-Ahora lo verificamos en el repositorio entramos a GitHub entramos al repositorio  , pasamos a la rama correcta y buscamos paso a paso mediante el nombre del archivo que hicimos el cambio y actualizamos para ver nuestro cambio.  
+"On-premise":
+Un modelo de instalación donde el software y la infraestructura de tecnología se alojan y ejecutan localmente en servidores propios con control total, gestión interna e independencia, y las ventajas son privacidad y seguridad.
+Los servidores de almacenamiento y software se mantienen dentro de una instalación física en una empresa.
 
+La diferencia entre ambos es el lugar donde se almacenan los datos y se ejecuta el software.
+En on-premise, se utilizan servidores físicos locales dentro de la propia empresa, mientras que cloud utiliza servidores remotos gestionados por un proveedor externo a través de internet.
 
+"Comandos Maven en Java"
+- mvn clean: borra los archivos generados anteriormente, principalmente la carpeta target.
+- mvn compile: compila el código fuente del proyecto.
+- mvn package: compila, prueba y genera el archivo JAR o WAR.
+- mvn install: genera el paquete y lo instala en tu repositorio local de Maven.
+- mvn clean install: limpia el proyecto, luego compila, prueba y empaqueta.
+- mvn clean package: limpia y genera nuevamente el JAR o WAR.
+- mvn dependency:tree: muestra las librerías/dependencias que utiliza el proyecto.
+- mvn validate: verifica que la estructura y la configuración del proyecto sean correctas.
+- mvn verify: ejecuta las verificaciones necesarias después de las pruebas y antes de instalar o publicar.
 
- 
-
- 
-
- 
