@@ -53,3 +53,9 @@ La manera de utilizarlo:
 
 Entre los que se ocupan son el modelo Clauden, es una inteligencia artificial que te ayuda a resolver tareas de forma rapida, lo puede ocupar como un asistente de programación rapida. 
 Si ya tiene el GitHub y el Visual, abres el chat de Copilot y buscas el modelo Clauden 4.5, y puedes preguntarle algo o que te enseñe a resolver algo de tu codigo. 
+
+
+Git Extension: Es una aplicación visual de interfaz grafica que permite administrar respositorios de GIT sin necesidad de usar la linea de comandos. 
+Visualización: Muestra de forma grafica los cambios, las ramas, las confirmaciones y el historial de tu proyecto.
+Gestión de codigo: Permite crear, clonar, fusionar, y enviar cambios a repositorios remotos mediante botones y menus. 
+Integración: Funciona de manera independiente, pero tambien se integra con el explorador Windows y como entornos Visual Studio
